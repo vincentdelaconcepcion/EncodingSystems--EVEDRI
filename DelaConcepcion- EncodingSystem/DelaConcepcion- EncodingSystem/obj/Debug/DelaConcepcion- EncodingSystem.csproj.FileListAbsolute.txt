@@ -1,0 +1,22 @@
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\bin\Debug\DelaConcepcion- EncodingSystem.exe.config
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\bin\Debug\DelaConcepcion- EncodingSystem.exe
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\bin\Debug\DelaConcepcion- EncodingSystem.pdb
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.csproj.AssemblyReference.cache
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion__EncodingSystem.Form1.resources
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion__EncodingSystem.Properties.Resources.resources
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.csproj.GenerateResource.cache
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.csproj.CoreCompileInputs.cache
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.exe
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.pdb
+E:\Games\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.exe.config
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\bin\Debug\DelaConcepcion- EncodingSystem.exe.config
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\bin\Debug\DelaConcepcion- EncodingSystem.exe
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\bin\Debug\DelaConcepcion- EncodingSystem.pdb
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.exe.config
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion__EncodingSystem.Form1.resources
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion__EncodingSystem.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.exe
+C:\Users\ACT-STUDENT\Downloads\EncodingSystems--EVEDRI-main\DelaConcepcion- EncodingSystem\DelaConcepcion- EncodingSystem\obj\Debug\DelaConcepcion- EncodingSystem.pdb
